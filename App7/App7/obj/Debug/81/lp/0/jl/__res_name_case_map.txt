@@ -1,0 +1,7 @@
+layout/item_fancy_dialog.axml;layout/item_fancy_dialog.xml
+values/colors.xml;values/colors.xml
+values/strings.xml;values/strings.xml
+values/styles.xml;values/styles.xml
+anim/dialog_dismiss.xml;anim/dialog_dismiss.xml
+anim/dialog_show.xml;anim/dialog_show.xml
+drawable-v24/ic_info_outline_black_24dp.xml;drawable-v24/ic_info_outline_black_24dp.xml
